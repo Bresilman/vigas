@@ -1,0 +1,66 @@
+[
+    {
+        "id_estimado": "P1",
+        "coordenada": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "cargas_servico": {
+            "Fz_kN": 58.09,
+            "Mx_kNm": 29.58,
+            "My_kNm": 0.0
+        },
+        "origem_cargas": [
+            "V4",
+            "V1"
+        ]
+    },
+    {
+        "id_estimado": "P2",
+        "coordenada": {
+            "x": 4.0,
+            "y": 0.0
+        },
+        "cargas_servico": {
+            "Fz_kN": 55.75,
+            "Mx_kNm": 0.0,
+            "My_kNm": 0.0
+        },
+        "origem_cargas": [
+            "V2",
+            "V4"
+        ]
+    },
+    {
+        "id_estimado": "P3",
+        "coordenada": {
+            "x": 0.0,
+            "y": 5.0
+        },
+        "cargas_servico": {
+            "Fz_kN": 58.09,
+            "Mx_kNm": 29.58,
+            "My_kNm": 0.0
+        },
+        "origem_cargas": [
+            "V3",
+            "V1"
+        ]
+    },
+    {
+        "id_estimado": "P4",
+        "coordenada": {
+            "x": 4.0,
+            "y": 5.0
+        },
+        "cargas_servico": {
+            "Fz_kN": 55.75,
+            "Mx_kNm": 0.0,
+            "My_kNm": 0.0
+        },
+        "origem_cargas": [
+            "V2",
+            "V3"
+        ]
+    }
+]

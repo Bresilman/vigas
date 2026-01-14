@@ -1,0 +1,1 @@
+{"V_Demo": {"id": "V_Demo", "geometria_estimada": "20x50", "coordenadas_globais": {"comprimento_total": 6.0}, "cargas_distribuidas": [{"origem": "Exemplo", "tipo": "Reacao Vertical", "valor_kNm": 15.0, "posicao_na_viga": {"inicio": 0.0, "fim": 6.0, "comprimento": 6.0}}]}}
